@@ -5,6 +5,7 @@ import 'package:fluttericon/fontelico_icons.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 import 'package:get/get.dart';
+import 'package:mgxchangeadmin/Admin/Screens/MainScreen/approveordeleteitemlist.dart';
 import 'package:mgxchangeadmin/Admin/Screens/MainScreen/itemlist.dart';
 import 'package:mgxchangeadmin/Components/carddesign.dart';
 import 'package:mgxchangeadmin/Data/Constant.dart';
@@ -143,7 +144,7 @@ class AdminDashboard extends StatelessWidget {
                           Expanded(
                             child: GestureDetector(
                               onTap: () {
-                                // Get.to(RiderProfile());
+                                Get.to(ApproveorDeleteItem());
                               },
                               child: CarddDesign(
                                 icn: FontAwesomeIcons.check,

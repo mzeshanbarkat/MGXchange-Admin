@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:mgxchangeadmin/Admin/Screens/Auth/adminlogin.dart';
 import 'package:mgxchangeadmin/Data/Constant.dart';
-import 'package:mgxchangeadmin/Rider/Screens/Auth/riderlogin.dart';
+import 'package:mgxchangeadmin/Rider/Screens/Auth/login.dart';
 
 class Home extends StatelessWidget {
   const Home({Key key}) : super(key: key);

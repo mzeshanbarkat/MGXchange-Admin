@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "659930527109",
+    "project_id": "mgxchange-844ad",
+    "storage_bucket": "mgxchange-844ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659930527109:android:c38ebeffcacc6d725040ec",
+        "android_client_info": {
+          "package_name": "com.example.mgxchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659930527109-44kdthpkbdprpemsh4a5uhf6sej9aefn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeFpCBDrfTdmA1DkeU81yxyYzVbkuzHjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659930527109-44kdthpkbdprpemsh4a5uhf6sej9aefn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "659930527109-7e0r9o7dco6arn0oi6q1tga2cuili0i5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mgxchange"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659930527109:android:047e84f2c1f700195040ec",
+        "android_client_info": {
+          "package_name": "com.example.mgxchangeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659930527109-44kdthpkbdprpemsh4a5uhf6sej9aefn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeFpCBDrfTdmA1DkeU81yxyYzVbkuzHjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659930527109-44kdthpkbdprpemsh4a5uhf6sej9aefn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "659930527109-7e0r9o7dco6arn0oi6q1tga2cuili0i5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mgxchange"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
